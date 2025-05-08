@@ -15,43 +15,28 @@ namespace JsonOpenData
         private string _adres;
         private int _aantalToiletten;
         private int _aantalUrinoirs;
-        private List<Wcklasse> _listWcs;
 
-        public string adres
+        public string Adres
         {
             get { return _adres; }
             set { _adres = value; }
         }
 
-        public int toiletten
+        public int AantalToiletten
         {
             get { return _aantalToiletten; }
             set { _aantalToiletten = value; }
         }
 
-        public int urinoirs
+        public int AantalUrinoirs
         {
             get { return _aantalUrinoirs; }
             set { _aantalUrinoirs = value; }
         }
 
-        public List<Wcklasse> ListWcs
-        {
-            get
-            {
-                string json = File.ReadAllText("wcklasse.json");
-                _listWcs = JsonConvert.DeserializeObject<List<Wcklasse>>(json);
-                return _listWcs;
-            }
-            set
-            {
-                _listWcs = value;
-            }
-        }
-
         public override string ToString()
         {
-            return this.adres + " - Aantal toiletten: " + this.toiletten + " - Aantal urinoirs: " + this.urinoirs;
+            return this.Adres + " - Aantal toiletten: " + this.AantalToiletten + " - Aantal urinoirs: " + this.AantalUrinoirs;
         }
     }
 }

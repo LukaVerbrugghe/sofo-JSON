@@ -36,14 +36,14 @@ namespace JsonOpenData
 
         private async void btnInladenDataToiletten_Click(object sender, EventArgs e)
         {
-            Wcklasse wcklasse = new Wcklasse();
-            string url = "https://data.stad.gent/api/v2/catalog/datasets/publiek-sanitair-gent";
-            List<Wcklasse> wcs = await wcklasse.HaalWcsVanWebAsync(url);
+            wcservice service = new wcservice();
+            List<Wcklasse> wcLijst = await service.GetListWcsAsync();
 
             lsbToilettenGent.Items.Clear();
-            foreach (Wcklasse wc in wcs)
+
+            foreach(Wcklasse w in wcLijst)
             {
-                lsbToilettenGent.Items.Add(wc);
+                lsbToilettenGent.Items.Add(w.ToString());
             }
         }
     }
