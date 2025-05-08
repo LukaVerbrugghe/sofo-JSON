@@ -13,6 +13,10 @@ namespace JsonOpenData.Model
     //klassse public maken
     public class Schoolklasse
     {
+        //!!!!!!!
+        //eerst met nuget newtonsoft.json toevoegen (anders gaat het niet werken he sloeber)
+
+
         //fields maken om de waarden van de variabelen op te slaan
         //fields beginnen alijtd met een _
         private string _school;
