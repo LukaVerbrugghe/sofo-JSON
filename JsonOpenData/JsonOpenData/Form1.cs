@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JsonOpenData.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,21 @@ namespace JsonOpenData
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnInlezenData_Click(object sender, EventArgs e)
+        {
+            //bij klikken op knip inlezen data
+            //de gegevens komen van de json file en worden in de listbox geplaatst
+
+            //object maken van de klasse schoolklasse
+            Schoolklasse schoolklasse = new Schoolklasse();
+
+            //itereren om alle scholen te overlopen
+            foreach (Schoolklasse s in schoolklasse.ListScholen)
+            {
+                lsbScholen.Items.Add(s);
+            }
         }
     }
 }

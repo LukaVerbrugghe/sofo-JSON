@@ -40,6 +40,7 @@
             this.btnInlezenData.TabIndex = 0;
             this.btnInlezenData.Text = "Inlezen data";
             this.btnInlezenData.UseVisualStyleBackColor = true;
+            this.btnInlezenData.Click += new System.EventHandler(this.btnInlezenData_Click);
             // 
             // lsbScholen
             // 
