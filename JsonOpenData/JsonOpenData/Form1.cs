@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Net.WebRequestMethods;
 
 namespace JsonOpenData
 {
@@ -30,6 +31,19 @@ namespace JsonOpenData
             foreach (Schoolklasse s in schoolklasse.ListScholen)
             {
                 lsbScholen.Items.Add(s);
+            }
+        }
+
+        private async void btnInladenDataToiletten_Click(object sender, EventArgs e)
+        {
+            Wcklasse wcklasse = new Wcklasse();
+            string url = "https://data.stad.gent/api/v2/catalog/datasets/publiek-sanitair-gent";
+            List<Wcklasse> wcs = await wcklasse.HaalWcsVanWebAsync(url);
+
+            lsbToilettenGent.Items.Clear();
+            foreach (Wcklasse wc in wcs)
+            {
+                lsbToilettenGent.Items.Add(wc);
             }
         }
     }
