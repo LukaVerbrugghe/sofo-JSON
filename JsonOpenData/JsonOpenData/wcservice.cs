@@ -14,7 +14,7 @@ namespace JsonOpenData
 
         public async Task<List<Wcklasse>> GetListWcsAsync()
         {
-            string url = "https://data.stad.gent/api/v2/catalog/datasets/publiek-sanitair-gent";
+            string url = "https://data.stad.gent/api/v2/catalog/datasets/publiek-sanitair-gent/exports/json";
             string response = await _httpClient.GetStringAsync(url);
 
             RootObject root = JsonConvert.DeserializeObject<RootObject>(response);
