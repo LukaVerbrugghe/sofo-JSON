@@ -1,0 +1,1014 @@
+[
+{
+"json_featuretype":"Scholen"
+,"School":"Steinerschool"
+,"Vestiging_aangepast":"Astridl 86"
+,"Vestiging":"Astridlaan 86"
+,"Aantal":276
+,"Blokcode":"31005WC00037"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24942371110806,51.1985137793371]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"BLO Ganzeveer"
+,"Vestiging_aangepast":"Ganzenstr 13/15"
+,"Vestiging":"Ganzenstraat 15"
+,"Aantal":191
+,"Blokcode":"31005WH00207"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23519218951309,51.2092795123184]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"SASK"
+,"Vestiging_aangepast":"Katelijnestr 86/88"
+,"Vestiging":"Katelijnestraat 86"
+,"Aantal":1742
+,"Blokcode":"31005WH00007"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22657072740621,51.2016756145344]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"cvo SNTL"
+,"Vestiging_aangepast":"Arsenaalstr 4"
+,"Vestiging":"Arsenaalstraat 4"
+,"Aantal":6510
+,"Blokcode":"31005WH00007"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22568274694483,51.2011026721322]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Conservatorium"
+,"Vestiging_aangepast":"St-Jakobsstr 23/27"
+,"Vestiging":"Sint-Jakobsstraat 23-27"
+,"Aantal":1510
+,"Blokcode":"31005WH00195"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22151760419714,51.2094350522]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Europacollege"
+,"Vestiging_aangepast":"Dijver 10/11"
+,"Vestiging":"Dijver 11"
+,"Aantal":315
+,"Blokcode":"31005WH00289"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22627501779853,51.20584346997]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"KHBO"
+,"Vestiging_aangepast":"Xaverianenstr 14"
+,"Vestiging":"Xaverianenstraat 10"
+,"Aantal":3391
+,"Blokcode":"31005WM00031"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20381110048044,51.1871497433193]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Howest"
+,"Vestiging_aangepast":"St-Jorisstr 71"
+,"Vestiging":"Sint-Jorisstraat 71"
+,"Aantal":1120
+,"Blokcode":"31005WH00132"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22049661957341,51.2150884469745]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Howest"
+,"Vestiging_aangepast":"Rijselstr 5"
+,"Vestiging":"Rijselstraat 5"
+,"Aantal":1648
+,"Blokcode":"31005WM00071"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21510327266019,51.1919550355499]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Conservatorium Blijdhove"
+,"Vestiging_aangepast":"Generaal Lemanl 145"
+,"Vestiging":"Generaal Lemanlaan 145"
+,"Aantal":98
+,"Blokcode":"31005WC00014"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24364798083811,51.2019853453404]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Basisschool van het Gemeenschapsonderwijs"
+,"Vestiging_aangepast":"Spiegelrei 15"
+,"Vestiging":"Spiegelrei 15"
+,"Aantal":228
+,"Blokcode":"31005WH00166"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22790017721646,51.2126384324845]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Basisschool van het Gemeenschapsonderwijs - Brugge De Springplank - De Pannebeke - De Regenboog"
+,"Vestiging_aangepast":"Hugo Losschaertstr 5"
+,"Vestiging":"Hugo Losschaertstraat 5"
+,"Aantal":440
+,"Blokcode":"31005WH00132"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21908226222218,51.2143793985778]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Basisschool van het Gemeenschapsonderwijs - MANITOBA"
+,"Vestiging_aangepast":"Manitobal 46"
+,"Vestiging":"Manitobalaan 48"
+,"Aantal":242
+,"Blokcode":"31005WD00164"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19746935240659,51.1968551520416]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Basisschool van het Gemeenschapsonderwijs"
+,"Vestiging_aangepast":"Brieversweg 183"
+,"Vestiging":"Brieversweg 185"
+,"Aantal":101
+,"Blokcode":"31005WF00104"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2751816734386,51.2124499832827]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Basisschool van het Gemeenschapsonderwijs"
+,"Vestiging_aangepast":"Daverlostr 132"
+,"Vestiging":"Daverlostraat 132"
+,"Aantal":431
+,"Blokcode":"31005WC00133"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24364400458553,51.1959523289952]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Medisch Pedagogisch Instituut van het Gemeenschapsonderwijs - De Kaproenen"
+,"Vestiging_aangepast":"Kaproenenhof 32"
+,"Vestiging":"Kaproenenhof 32"
+,"Aantal":173
+,"Blokcode":"31005WM00164"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21286413585979,51.1752814299369]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"Gerard Davidstr 6"
+,"Vestiging":"Gerard Davidstraat 6"
+,"Aantal":493
+,"Blokcode":"31005WB00027"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20711180690146,51.2150203323916]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"St-Lenardsstr 58A"
+,"Vestiging":"Sint-Lenardsstraat 58"
+,"Aantal":233
+,"Blokcode":"31005WE00019"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22930253590887,51.2742845463156]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - DE KOMME"
+,"Vestiging_aangepast":"St-Jozefsstr 6"
+,"Vestiging":"Sint-Jozefsstraat 2"
+,"Aantal":145
+,"Blokcode":"31005WL00068"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23311071352667,51.2258229183217]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"St-Maartensplein 5"
+,"Vestiging":"Sint-Maartensplein 5"
+,"Aantal":242
+,"Blokcode":"31005WH00171"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22919721608174,51.2114306683537]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool -Sint-Jozefsinstituut"
+,"Vestiging_aangepast":"Zilverstr 18"
+,"Vestiging":"Zilverstraat 26"
+,"Aantal":173
+,"Blokcode":"31005WH00237"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22080618598267,51.2072309652163]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"Blankenbergse stwg 219"
+,"Vestiging":"Blankenbergse Steenweg 219"
+,"Aantal":224
+,"Blokcode":"31005WK00010"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2057697688757,51.2288136814109]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"Potentestr 28"
+,"Vestiging":"Potentestraat 28"
+,"Aantal":198
+,"Blokcode":"31005WK00129"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20619053957424,51.2228914683041]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Lagere School"
+,"Vestiging_aangepast":"Potterierei 11"
+,"Vestiging":"Potterierei 11"
+,"Aantal":183
+,"Blokcode":"31005WH00135"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23007011436642,51.2142191517699]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool -Oefenschool - Sint-Andreas"
+,"Vestiging_aangepast":"Garenmarkt 8"
+,"Vestiging":"Garenmarkt 8"
+,"Aantal":711
+,"Blokcode":"31005WH00289"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22747911888462,51.2051864386834]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"Gistelse stwg 440"
+,"Vestiging":"Gistelse Steenweg 440"
+,"Aantal":462
+,"Blokcode":"31005WD00157"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18518614789527,51.199227869064]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool -Sint Lodewijkscollege"
+,"Vestiging_aangepast":"Doornstr 3"
+,"Vestiging":"Doornstraat 3"
+,"Aantal":327
+,"Blokcode":"31005WD00181"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.194970683028,51.1932402104609]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - Sint-Lodewijkscollege - afd. Zandstraat"
+,"Vestiging_aangepast":"Zandstr 69"
+,"Vestiging":"Zandstraat 69"
+,"Aantal":315
+,"Blokcode":"31005WD00145"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20146606018537,51.202540647471]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - Sint-Lodewijkscollege Afd. Immaculata"
+,"Vestiging_aangepast":"Koningin Astridl 4"
+,"Vestiging":"Koningin Astridlaan 4"
+,"Aantal":475
+,"Blokcode":"31005WM00064"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20826441883954,51.1892285116187]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - Sint-Lodewijkscollege"
+,"Vestiging_aangepast":"Spoorwegstr 250"
+,"Vestiging":"Spoorwegstraat 250"
+,"Aantal":185
+,"Blokcode":"31005WM00108"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22305189381258,51.1829375905053]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Gemeentelijke Basisschool - De Triangel"
+,"Vestiging_aangepast":"Diksmuidse Heerweg 159"
+,"Vestiging":"Diksmuidse Heerweg 159"
+,"Aantal":328
+,"Blokcode":"31005WD00173"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19536113307598,51.1958295134236]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Lagere School"
+,"Vestiging_aangepast":"De Linde 96"
+,"Vestiging":"De Linde 94"
+,"Aantal":140
+,"Blokcode":"31005WF00108"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28196496170572,51.2103466378954]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Lagere School"
+,"Vestiging_aangepast":"Fortuinstr 29"
+,"Vestiging":"Fortuinstraat 29"
+,"Aantal":384
+,"Blokcode":"31005WF00135"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25504853967158,51.2073602195143]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"Collegestr 24"
+,"Vestiging":"Collegestraat 24_bi"
+,"Aantal":207
+,"Blokcode":"31005WC00073"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25046947206429,51.2035971129132]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - OLVA De Meersen"
+,"Vestiging_aangepast":"Astridl 400"
+,"Vestiging":"Astridlaan 400"
+,"Aantal":201
+,"Blokcode":"31005WC00136"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26796098039822,51.1923987422338]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"St-Katarinastr 132"
+,"Vestiging":"Sint-Katarinastraat 132"
+,"Aantal":372
+,"Blokcode":"31005WC00126"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23701584104549,51.1969957764013]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"Baron Ruzettel 439"
+,"Vestiging":"Baron Ruzettelaan 439"
+,"Aantal":260
+,"Blokcode":"31005WC00169"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23618499967866,51.1819041377087]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Gemeentelijke Basisschool-Ter Poorten"
+,"Vestiging_aangepast":"Stationsstr 25"
+,"Vestiging":"Stationsstraat 25"
+,"Aantal":137
+,"Blokcode":"31005WA00020"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19536863246423,51.2943566171681]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool-De Lisblomme"
+,"Vestiging_aangepast":"Zeebruggel 43"
+,"Vestiging":"Zeebruggelaan 41"
+,"Aantal":236
+,"Blokcode":"31005WA00023"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19150336036233,51.2937180076241]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"Zustersstr 9"
+,"Vestiging":"Zustersstraat 9"
+,"Aantal":219
+,"Blokcode":"31005WJ00033"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20830443919991,51.3302760729287]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool voor Buitengewoon Onderwijs -Koninklijk Instituut Spermalie"
+,"Vestiging_aangepast":"Snaggaardstr 9"
+,"Vestiging":"Snaggaardstraat 9"
+,"Aantal":120
+,"Blokcode":"31005WH00108"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2317627619547,51.2160837947349]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Gemeentelijke Lagere School voor Buitengewoon Onderwijs -De Ganzenveer"
+,"Vestiging_aangepast":"Ganzenstr 13/15"
+,"Vestiging":"Ganzenstraat 15"
+,"Aantal":165
+,"Blokcode":"31005WH00207"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23519218951309,51.2092795123184]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool voor Buitengewoon Onderwijs -Het Noordveld"
+,"Vestiging_aangepast":"Noordveldstr 31"
+,"Vestiging":"Noordveldstraat 31"
+,"Aantal":112
+,"Blokcode":"31005WD00136"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19791181286344,51.2042159863931]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool voor Buitengewoon Onderwijs - Het Anker"
+,"Vestiging_aangepast":"Beisbroekdr 27"
+,"Vestiging":"Beisbroekdreef 12"
+,"Aantal":99
+,"Blokcode":"31005WD00231"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.14356996416128,51.1795456976114]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool voor Buitengewoon Onderwijs - De Berkjes"
+,"Vestiging_aangepast":"Torhoutse stwg 511"
+,"Vestiging":"Torhoutse Steenweg 511"
+,"Aantal":44
+,"Blokcode":"31005WM00186"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18865548434362,51.1808527634101]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool voor Buitengewoon Onderwijs -Ter Dreve Type 2"
+,"Vestiging_aangepast":"Koning Albert I-l 188A"
+,"Vestiging":"Koning Albert I-laan 188"
+,"Aantal":59
+,"Blokcode":"31005WM00117"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20384078208604,51.18152605372]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Lagere School voor Buitengewoon Onderwijs - De Spycker"
+,"Vestiging_aangepast":"Polderstr 76"
+,"Vestiging":"Polderstraat 78"
+,"Aantal":200
+,"Blokcode":"31005WF00067"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25114334379791,51.2193649159249]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Lagere School voor Buitengewoon Onderwijs - De Boomgaard"
+,"Vestiging_aangepast":"St-Kristoffelstr 125B"
+,"Vestiging":"Sint-Kristoffelstraat 125_B"
+,"Aantal":93
+,"Blokcode":"31005WC00073"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25343300908081,51.2031696733644]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - De Zonnetuin"
+,"Vestiging_aangepast":"Beeweg 32"
+,"Vestiging":"Beeweg 32"
+,"Aantal":476
+,"Blokcode":"31005WF00004"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27107615197508,51.2026614679884]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - Guido Gezelleschool"
+,"Vestiging_aangepast":"Astridl 86"
+,"Vestiging":"Astridlaan 86"
+,"Aantal":171
+,"Blokcode":"31005WC00037"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24942371110806,51.1985137793371]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Gemeentelijke Basisschool_-St. Michiels"
+,"Vestiging_aangepast":"Rijselstr 71"
+,"Vestiging":"Rijselstraat 71"
+,"Aantal":456
+,"Blokcode":"31005WM00028"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21162208657553,51.187685370712]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - Het Palet"
+,"Vestiging_aangepast":"Mariastr 7"
+,"Vestiging":"Mariastraat 7"
+,"Aantal":330
+,"Blokcode":"31005WH00259"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22388882117412,51.2057300030921]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Basisschool van het Gemeenschapsonderwijs -Freinetschool De Tandem"
+,"Vestiging_aangepast":"Leopold Debruynestr 56"
+,"Vestiging":"Leopold Debruynestraat 56"
+,"Aantal":172
+,"Blokcode":"31005WF00007"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25100951513669,51.2116260643012]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool - Mozaiek"
+,"Vestiging_aangepast":"Pastorieweg 4"
+,"Vestiging":"Pastorieweg 4"
+,"Aantal":366
+,"Blokcode":"31005WF00067"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25048336188807,51.2153351824239]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Basisschool"
+,"Vestiging_aangepast":"Smallestr 2"
+,"Vestiging":"Smallestraat 2"
+,"Aantal":334
+,"Blokcode":"31005WG00017"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24979553085339,51.2421696400959]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Basisschool van het Gemeenschapsonderwijs - Freinetschool \"De Boomhut\""
+,"Vestiging_aangepast":"Koning Leopold III-l 100"
+,"Vestiging":"Koning Leopold III-laan 102"
+,"Aantal":207
+,"Blokcode":"31005WD00192"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18576270071643,51.1898711519715]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrije Kleuterschool"
+,"Vestiging_aangepast":"Fortuinstr 29"
+,"Vestiging":"Fortuinstraat 29"
+,"Aantal":180
+,"Blokcode":"31005WF00135"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25504853967158,51.2073602195143]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Sint-Jozefsinstituut"
+,"Vestiging_aangepast":"Zilverstr 18"
+,"Vestiging":"Zilverstraat 26"
+,"Aantal":704
+,"Blokcode":"31005WH00237"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22080618598267,51.2072309652163]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrij Technisch Instituut Brugge"
+,"Vestiging_aangepast":"Boeveriestr 73"
+,"Vestiging":"Boeveriestraat 73"
+,"Aantal":1210
+,"Blokcode":"31005WH00013"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2165303989481,51.2011575429197]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Technisch Instituut Heilige Familie"
+,"Vestiging_aangepast":"Oude Zak 44"
+,"Vestiging":"Oude Zak 38"
+,"Aantal":1479
+,"Blokcode":"31005WH00030"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21701411343674,51.2101097703361]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Hotel- en Toerismeschool Spermalie"
+,"Vestiging_aangepast":"Snaggaardstr 15"
+,"Vestiging":"Snaggaardstraat 15"
+,"Aantal":738
+,"Blokcode":"31005WH00108"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2326115021513,51.2160096717862]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Sint-Leocollege"
+,"Vestiging_aangepast":"Potterierei 11"
+,"Vestiging":"Potterierei 11"
+,"Aantal":680
+,"Blokcode":"31005WH00135"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23007011436642,51.2142191517699]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Sint-Franciscus-Xaveriusinstituut"
+,"Vestiging_aangepast":"Mariastr 7"
+,"Vestiging":"Mariastraat 7"
+,"Aantal":928
+,"Blokcode":"31005WH00259"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22388882117412,51.2057300030921]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Lyceum Hemelsdaele"
+,"Vestiging_aangepast":"Wapenmakersstr 14"
+,"Vestiging":"Wapenmakersstraat 14"
+,"Aantal":362
+,"Blokcode":"31005WH00029"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22727609510869,51.2104699984766]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Sint-Andreasinstituut"
+,"Vestiging_aangepast":"Garenmarkt 8"
+,"Vestiging":"Garenmarkt 8"
+,"Aantal":426
+,"Blokcode":"31005WH00289"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22747911888462,51.2051864386834]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Sint-Jozefsinstituut - ASO"
+,"Vestiging_aangepast":"Noordzandstr 76"
+,"Vestiging":"Noordzandstraat 76"
+,"Aantal":639
+,"Blokcode":"31005WH00044"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21818750701998,51.2069667937522]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Onze-Lieve-Vrouwecollege"
+,"Vestiging_aangepast":"Collegestr 24"
+,"Vestiging":"Collegestraat 24"
+,"Aantal":666
+,"Blokcode":"31005WC00073"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25046947206429,51.2035971129132]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Abdijschool van Zevenkerken"
+,"Vestiging_aangepast":"Zevenkerken 4"
+,"Vestiging":"Zevenkerken 4"
+,"Aantal":298
+,"Blokcode":"31005WD00232"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.15905635372939,51.159452551624]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Onze-Lieve-Vrouw-Hemelvaart Instituut"
+,"Vestiging_aangepast":"Doornstr 3"
+,"Vestiging":"Doornstraat 3"
+,"Aantal":576
+,"Blokcode":"31005WD00181"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.194970683028,51.1932402104609]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Sint-Andreaslyceum"
+,"Vestiging_aangepast":"Fortuinstr 29"
+,"Vestiging":"Fortuinstraat 29"
+,"Aantal":686
+,"Blokcode":"31005WF00135"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25504853967158,51.2073602195143]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Immaculata-Instituut"
+,"Vestiging_aangepast":"Koningin Astridl 4"
+,"Vestiging":"Koningin Astridlaan 4"
+,"Aantal":452
+,"Blokcode":"31005WM00064"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20826441883954,51.1892285116187]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Hotelschool Ter Groene Poorte"
+,"Vestiging_aangepast":"Spoorwegstr 14"
+,"Vestiging":"Spoorwegstraat 14"
+,"Aantal":734
+,"Blokcode":"31005WM00009"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21677678680783,51.1914742028918]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrij Handels- en Sportinst. St.-Michiels"
+,"Vestiging_aangepast":"Spoorwegstr 14"
+,"Vestiging":"Spoorwegstraat 14"
+,"Aantal":629
+,"Blokcode":"31005WM00009"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21677678680783,51.1914742028918]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"M.S.G.O. V Assebroek - Sint-Kruis"
+,"Vestiging_aangepast":"Daverlostr 132"
+,"Vestiging":"Daverlostraat 132"
+,"Aantal":146
+,"Blokcode":"31005WC00133"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24364400458553,51.1959523289952]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"K.A. I"
+,"Vestiging_aangepast":"St-Clarastr 46"
+,"Vestiging":"Sint-Clarastraat 46"
+,"Aantal":347
+,"Blokcode":"31005WH00106"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22387405421352,51.2161073654171]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"K.A. III"
+,"Vestiging_aangepast":"Daverlostr 132"
+,"Vestiging":"Daverlostraat 132"
+,"Aantal":208
+,"Blokcode":"31005WC00133"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24364400458553,51.1959523289952]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"K.A. II"
+,"Vestiging_aangepast":"Vijverhofl 13"
+,"Vestiging":"Vijverhoflaan 13"
+,"Aantal":226
+,"Blokcode":"31005WM00086"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21704679779697,51.1853140049257]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"K.T.A."
+,"Vestiging_aangepast":"Rijselstr 5"
+,"Vestiging":"Rijselstraat 7"
+,"Aantal":1197
+,"Blokcode":"31005WM00071"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21510327266019,51.1919550355499]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"M.S.G.O. Brugge Centrum"
+,"Vestiging_aangepast":"Hugo Losschaertstr 5"
+,"Vestiging":"Hugo Losschaertstraat 5_A"
+,"Aantal":162
+,"Blokcode":"31005WH00132"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21908226222218,51.2143793985778]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Ter Groene Poorte (brood- & banketbakk.)"
+,"Vestiging_aangepast":"Groene-Poortdr 17"
+,"Vestiging":"Groene-Poortdreef 17"
+,"Aantal":572
+,"Blokcode":"31005WM00009"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21549564080943,51.1897338498152]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Stedelijke Academie voor Schone Kunsten"
+,"Vestiging_aangepast":"Katelijnestr 86/88"
+,"Vestiging":"Katelijnestraat 86"
+,"Aantal":384
+,"Blokcode":"31005WH00007"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22657072740621,51.2016756145344]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Hogere Beroepsopl. Verpl St.Jan-St.Jozef"
+,"Vestiging_aangepast":"Koning Albert I-l 8"
+,"Vestiging":"Koning Albert I-laan 6"
+,"Aantal":491
+,"Blokcode":"31005WM00048"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20937852419786,51.196346743889]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Instituut Mariawende-Blydhove"
+,"Vestiging_aangepast":"Boogschuttersl 25"
+,"Vestiging":"Boogschutterslaan 25"
+,"Aantal":672
+,"Blokcode":"31005WF00067"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2488396243053,51.2157078435239]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrij Technisch Instituut-Brugge MS"
+,"Vestiging_aangepast":"Boeveriestr 73"
+,"Vestiging":"Boeveriestraat 73"
+,"Aantal":262
+,"Blokcode":"31005WH00013"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2165303989481,51.2011575429197]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Sint-Lodewijkscollege"
+,"Vestiging_aangepast":"Magdalenastr 30"
+,"Vestiging":"Magdalenastraat 30"
+,"Aantal":1218
+,"Blokcode":"31005WD00037"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21153305001807,51.199907006583]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Sint-Lodewijkscollege Eerste Graad"
+,"Vestiging_aangepast":"Magdalenastr 30"
+,"Vestiging":"Magdalenastraat 30"
+,"Aantal":138
+,"Blokcode":"31005WD00037"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21153305001807,51.199907006583]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Vrij Technisch Instituut Brugge"
+,"Vestiging_aangepast":"Boeveriestr 73"
+,"Vestiging":"Boeveriestraat 73"
+,"Aantal":174
+,"Blokcode":"31005WH00013"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2165303989481,51.2011575429197]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"K.T.A."
+,"Vestiging_aangepast":"Rijselstr 5"
+,"Vestiging":"Rijselstraat 7"
+,"Aantal":141
+,"Blokcode":"31005WM00071"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21510327266019,51.1919550355499]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"S.S.B.O.G.O. De Varens"
+,"Vestiging_aangepast":"Nieuwe St-Annadr 25/27"
+,"Vestiging":"Nieuwe St.-Annadreef 27"
+,"Aantal":353
+,"Blokcode":"31005WD00194"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17413203876489,51.1902861135845]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Bu.S.O. Ravelijn"
+,"Vestiging_aangepast":"Barrierestr 4"
+,"Vestiging":"Barrièrestraat 4_a"
+,"Aantal":142
+,"Blokcode":"31005WM00048"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2067815928465,51.1945690520933]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"Bu.S.O. Haverlo"
+,"Vestiging_aangepast":"Weidestr 156"
+,"Vestiging":"Weidestraat 156"
+,"Aantal":359
+,"Blokcode":"31005WC00130"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24297468844358,51.1931913640931]}
+}
+,{
+"json_featuretype":"Scholen"
+,"School":"BuSO Secundaire School Spermalie"
+,"Vestiging_aangepast":"Potterierei 45"
+,"Vestiging":"Potterierei 46"
+,"Aantal":191
+,"Blokcode":"31005WH00108"
+,"Aangemaakt op":"22/06/2016"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2290091874876,51.2164849095072]}
+}
+]
