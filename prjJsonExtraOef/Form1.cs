@@ -1,4 +1,5 @@
-﻿using System;
+﻿using prjJsonExtraOef.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,16 @@ namespace prjJsonExtraOef
         public Form1()
         {
             InitializeComponent();
+            inladenLeerlingen();
+        }
+
+        private void inladenLeerlingen()
+        {
+            leerlingenklasse leerlingenklasseobj = new leerlingenklasse();
+            foreach(leerlingenklasse l in leerlingenklasseobj.ListLeerlingen)
+            {
+                lsbLeerlingen.Items.Add(l);
+            }
         }
     }
 }
