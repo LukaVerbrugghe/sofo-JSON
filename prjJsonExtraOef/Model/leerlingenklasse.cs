@@ -34,10 +34,33 @@ namespace prjJsonExtraOef.Model
                 _listLeerlingen = value;
             }
         }
+        
+        private int getAge(string geboortedatum)
+        {
+            DateTime geboortedatumDT = Convert.ToDateTime(geboortedatum);
+            int leeftijd = geboortedatumDT.Year - DateTime.Now.Year;
+            leeftijd = leeftijd * -1;
+            if(geboortedatumDT.Month > DateTime.Now.Month)
+            {
+                //leerling is nog niet verjaard --> 1 jaar aftrekken
+                leeftijd--;
+            }
+                //leerling is mss jarig in deze maand
+            else if(geboortedatumDT.Month == DateTime.Now.Month && geboortedatumDT.Day <= DateTime.Now.Day)
+            {
+                //leerling is al verjaard
+            }
+            else
+            {
+                //leerling is nog niet verjaard
+                leeftijd--;
+            }
+                return leeftijd;
+        }
 
         public override string ToString()
         {
-            return this.Naam + " - " + this.Klas + " - " + this.Email + " - " + this.Geboortedatum;
+            return this.Naam + " - " + this.Klas + " - " + this.Email + " - " + this.getAge(this.Geboortedatum) + " - " + this.Geboortedatum;
         }
     }
 }
